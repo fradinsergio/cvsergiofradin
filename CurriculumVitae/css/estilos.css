@@ -1,0 +1,118 @@
+aside{
+    width: 25%;
+    height: auto;
+    background-color: grey;
+    color:white;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+aside a{
+    color:white;
+}
+aside p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /**margin-left: 35px;
+    margin-right: 35px;*/
+}
+
+aside h4 {
+    margin-top: 35px;
+}
+aside h5{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+aside div{
+    margin-bottom: 50px;
+    margin-top: 50px;  
+}
+#idiomas{
+    padding-bottom: 20px;
+}
+#foto{
+        border-radius: 50%;
+        margin-top: 25px;
+    }
+section{
+    padding-top: 25px;
+    color:dimgray;
+    width: 65%;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-bottom: 2px solid dimgrey;
+}
+#encabezado{
+    padding-top: 100px;
+    height: 300px;
+}
+#nombre{
+    font-family: 'Oswald', sans-serif;
+    width: 35%;
+    float: left;
+}
+#datos_personales{
+    padding-top: 40px;
+    width: 35%;
+    float:right
+}
+table td{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.caja_lateral_izquierda{
+    width: 35%;
+    border-right: 3px dotted;
+    float: left;
+}
+.caja_lateral_derecha{
+    width: 65%;
+    float: right;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.h4_body{
+    padding-bottom: 10px;
+}
+#estudios{
+    padding-bottom: 30px;
+}
+.caja_simetrica{
+    width: 50%;
+    float: left;
+    padding-left: 0px;
+    padding-right: 50px; 
+}
+section h6{
+    margin-top: 10px;
+}
+#experiencia{
+    padding-bottom: 30px;
+}
+footer{
+    height: 68px;
+    background-color: grey;
+    margin-right: 50px;
+    padding-right: 20px;
+    padding-left: 50px;
+    padding-top: 15px;
+    margin-left:0px;
+    margin-bottom: 30px;
+    width:70%;
+    float:left;
+}
+#hobbies{
+    padding-bottom: 10px;
+}
+/**
+*{color:blueviolet}
+
+.clase1{
+    color:green
+}
+#etiqueta1{
+    color:chartreuse
+}
+*/
